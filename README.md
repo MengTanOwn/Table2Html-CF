@@ -2,10 +2,10 @@
 table image to html code based on Chinese financial reports
 
 # dataset address:
+Baidu.com Link: https://pan.baidu.com/s/1SnyDbwtmEVajyOrjVrPe-w?pwd=vcmd
+Extract Code: vcmd
 
-Baidu.com Link: https://pan.baidu.com/s/1SnyDbwtmEVajyOrjVrPe-w?pwd=vcmd   
-Extract Code: vcmd 
-
+https://huggingface.co/datasets/mengluoye/MCFTable-HTML
 
 # base model:llava-1.5-7b-hf
 
