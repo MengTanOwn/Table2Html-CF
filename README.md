@@ -14,3 +14,13 @@ https://huggingface.co/llava-hf/llava-1.5-7b-hf
 # fintuned model address:
 Baidu.com Link: https://pan.baidu.com/s/1fLpro2zSA9l9JR-iZLuttQ?pwd=hk7m
 Extract Code: hk7m
+
+
+# model finetune
+see  https://github.com/hiyouga/LLaMA-Factory
+
+# model eval
+
+'''
+python eval_result_metrics.py
+'''
